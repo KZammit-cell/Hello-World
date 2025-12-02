@@ -6,7 +6,10 @@ from __future__ import annotations
 import numpy as np
 import plotly.graph_objects as go
 import streamlit as st
+import plotly
 from PIL import Image, ImageDraw, ImageFont
+
+
 
 
 import numpy as np
